@@ -2,18 +2,22 @@
 
 -  About me:
 
-  I'm Ivon Jiao, an undergraduate majoring Software Engineering at Shanghai Jiao Tong University
-  My current interests are **AI Infra** thins and, to some extent, **OS**.
+    I'm Ivon Jiao, an undergraduate majoring Software Engineering at Shanghai Jiao Tong University
+   
+    My current interests are **AI Infra** thins and, to some extent, **OS**.
 
 - ⚡ Collabration:
 
   I'm currently working on some *efficient ai* thing
+  
   If you find anything interested in my repo / blog, welcome opening *issues* or contact me and have a nice discussion
   
 
 - 🔭 Blog:
   
-  If you want to learn more about me, welcome to my [blog](https://s1mplewind.github.io/), where I record my thoughts and some fun things from time to time
+  If you want to learn more about me, welcome to my [blog](https://s1mplewind.github.io/),
+
+  where I record my thoughts and some fun things from time to time
 
 - 📫 How to reach me:
   
