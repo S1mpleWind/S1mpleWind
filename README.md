@@ -4,7 +4,7 @@
 
     I'm Ivon Jiao, an undergraduate majoring Software Engineering at Shanghai Jiao Tong University
    
-    My current interests are **AI Infra** stuffs (particularly efficient ai) and, to some extent, **OS**.
+    My current interests are **AI Infra** staffs (particularly efficient ai) and, to some extent, **OS**.
 
 - ⚡ Collabration:
 
