@@ -11,6 +11,12 @@
   I'm currently working on some *efficient ai* thing
   
   If you find anything interested in my repo / blog, welcome opening *issues* or contact me and have a nice discussion
+
+- 🌱 Workflow:
+
+  I'm proficient in C/C++, while familiar with Python, Go, Java and JS.
+
+  And I'm intertested in Rust and CUDA too.
   
 
 - 🔭 Blog:
